@@ -9,4 +9,7 @@
 train.orig <- read.csv("./github/titanic/data/train.csv", header = TRUE)
 test.orig <- read.csv("./github/titanic/data/test.csv", header = TRUE)
 
-#
+# Packages
+library(data.table)
+library(ggplot2)
+library(dplyr)
