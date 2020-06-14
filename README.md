@@ -1,5 +1,5 @@
 # Kaggle Competitions
-This is a repository of notebooks/scripts for data science competitions from Kaggle.com. 
+### This is a repository of my notebooks/scripts for data science competitions from Kaggle.com. 
 
 Finished: 
 * Titanic Survival Prediction
